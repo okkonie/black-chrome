@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Black.",
+  "version": "1.0",
+  "description": "Super dark minimal theme for Chromium browsers.",
+  "icons": {
+    "128": "icon.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [6, 6, 6 ],
+      "frame_inactive": [0,0,0],
+      "toolbar": [0,0,0],
+      "toolbar_button_icon": [255,255,255],
+      "toolbar_text": [255,255,255],
+      "bookmark_text": [255,255,255],
+      "tab_text": [225,225,225],
+      "tab_background_text": [255,255,255],
+      "tab_background_inactive": [255,255,255],
+      "tab_background_text_inactive": [255,255,255],
+      "ntp_section": [0,0,0],
+      "omnibox_background": [6,6,6],
+      "omnibox_text": [255,255,255]
+    }
+  }
+}
