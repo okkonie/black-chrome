@@ -1,30 +1,22 @@
 {
   "manifest_version": 3,
-  "name": "My Custom Chrome Theme",
+  "name": "Black.",
   "version": "1.0",
-  "description": "black.",
+  "description": "Super dark minimal theme for Chromium browsers.",
+  "icons": {
+    "128": "icon.png"
+  },
   "theme": {
     "colors": {
-      "frame": [10, 10, 10],
-      "frame_inactive": [ 0, 0, 0],
+      "frame": [0, 0, 0],
+      "frame_inactive": [10, 10, 10],
       "toolbar": [0, 0, 0],
-      "tab_text": [255, 255, 255],
+      "tab_text": [220, 220, 220],
       "tab_background_text": [255, 255, 255],
-      "tab_selected": [255, 255, 255],
-      "tab_background_separator": [255,255,255],
       "bookmark_text": [255, 255, 255],
       "ntp_background": [0, 0, 0],
       "ntp_text": [255, 255, 255],
-      "ntp_link": [255, 255, 255],
-      "ntp_header": [0, 0, 0],
-      "ntp_section": [255, 255, 255],
-      "ntp_section_text": [0, 0, 0],
-      "ntp_section_link": [15, 15, 15],
-      "ntp_section_header_text": [15, 15, 15],
-      "ntp_button": [255, 255, 255],
-      "ntp_button_hover": [0, 0, 0],
-      "ntp_button_text": [0, 0, 0],
-      "control_background": [0, 0, 0]
+      "ntp_link": [255, 255, 255]
     }
   }
 }
