@@ -1,4 +1,6 @@
-### Very simple, black and minimal theme for chromium browsers.
+### Black.
+
+Very simple, black and minimal theme for chromium browsers.
 
 If you want to install it:
 
